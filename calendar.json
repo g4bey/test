@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2022-06-01",
+        "availability": ["8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM"]
+    },
+    {
+        "date": "2022-06-02",
+        "availability": ["9:00 AM - 12:00 PM"]
+    },
+    {
+        "date": "2022-06-03",
+        "availability": ["10:00 AM - 1:00 PM", "3:00 PM - 6:00 PM"]
+    },
+    {
+        "date": "2022-06-04",
+        "availability": ["11:00 AM - 2:00 PM"]
+    },
+    {
+        "date": "2022-06-05",
+        "availability": ["8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM"]
+    }
+]
